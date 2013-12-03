@@ -1,0 +1,16 @@
+citHeader("To cite pacman in publications, please use:")
+
+
+citEntry(entry = "manual",
+    title = "{glmExtras}",
+    author = "Dason Kurkiewicz",
+    organization = "Iowa State University",
+    address = "Ames, IA",
+    note = "version 0.1.0",
+    year = "2013",
+    url = "http://github.com/Dasonk/glmExtras",
+    textVersion  = paste("Kurkiewicz, D. (2013).",
+        "glmExtras",
+        "version 0.1.0. Iowa State University, Ames, IA",
+        "http://github.com/Dasonk/glmExtras")
+)

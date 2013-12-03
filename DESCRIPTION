@@ -1,0 +1,12 @@
+Package: glmExtras
+Type: Package
+Title: glmExtras
+Version: 0.1.0
+Date: 2013-12-02
+Author: Dason Kurkiewicz
+Maintainer: Dason Kurkiewicz <dasonk@gmail.com>
+Description: Extra functions that are useful when working with generalized
+    linear models
+License: MIT
+Collate:
+    'predict_CI.R'

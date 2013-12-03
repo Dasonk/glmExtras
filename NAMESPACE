@@ -1,0 +1,2 @@
+S3method(predict_CI,glm)
+export(predict_CI)
